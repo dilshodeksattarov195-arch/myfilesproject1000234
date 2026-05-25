@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authvalidate",
+        "uuid": 2056860,
+        "checksum": "bcdrd8"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
